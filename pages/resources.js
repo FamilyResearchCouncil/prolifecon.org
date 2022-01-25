@@ -1,13 +1,13 @@
 import styles from "../styles/Main.module.css";
-import HeadTag from "../components/layout/HeadTag"
+import HeadTag from "../components/layout/HeadTag";
 import {StyledContentContainer} from "../components/layout/sections/contentContainer";
 import {StyledPrimaryBlueSection} from "../components/layout/sections/primaryBlueSection";
 import StaffListing from "../components/subComponents/staffList";
 import {StyledReadingSection} from "../components/subComponents/readingTextBlock";
 
-const AboutUs = () => (
+const Resources = () => (
     <>
-        <HeadTag title="About Us" description="About FRC's Association of Churches & Ministries" />
+        <HeadTag title="Resources" description="ProLifeCon Resources" />
 
         <StyledPrimaryBlueSection>
             <StyledReadingSection>
@@ -30,4 +30,4 @@ const AboutUs = () => (
     </>
 );
 
-export default AboutUs;
+export default Resources;

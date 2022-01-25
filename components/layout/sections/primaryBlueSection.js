@@ -5,6 +5,6 @@ export const StyledPrimaryBlueSection = styled.section`
   background-color: ${({ theme }) => theme.colors.primaryBlue};
   padding: ${({ theme }) => theme.padding.sectionPadding};
   h2 {
-    color: ${({ theme }) => theme.colors.altLightBlue};
+    color: ${({ theme }) => theme.colors.primaryGold};
   }
 `;

@@ -7,10 +7,10 @@ import {StyledReadingSection} from "../components/subComponents/readingTextBlock
 
 const Home = () => (
   <>
-      <HeadTag title="Site Domain" description="Description of the site" />
+      <HeadTag title="ProLifeCon" description="ProLifeCon" />
       <StyledPrimaryBlueSection>
           <StyledContentContainer>
-              <h2 className={styles.h2}>Some Homepage Text</h2>
+              <h2 className={styles.h2}>Hello Homepage</h2>
               <StyledReadingSection>
                   Spicy jalapeno bacon ipsum dolor amet short ribs pork loin pork chicken pork chop pastrami chislic frankfurter, picanha pig. Ham pork loin cupim short ribs. Pork loin fatback alcatra, pork belly pastrami brisket shank meatloaf flank. Chislic pig shank corned beef spare ribs. Kielbasa andouille spare ribs, porchetta sirloin pork pancetta ribeye shoulder. Pastrami landjaeger meatball, pancetta boudin jerky chislic shoulder sausage drumstick.<br />
                   Burgdoggen pancetta ribeye, picanha ground round boudin short ribs corned beef tongue strip steak shoulder. Turkey short ribs salami tenderloin venison shoulder boudin beef ribs. Pork belly salami corned beef, jerky jowl rump tail turducken meatball cupim andouille sausage ham sirloin biltong. Boudin andouille kevin, tongue bresaola frankfurter swine pastrami. Buffalo turducken sausage cupim fatback. Hamburger pork chop kielbasa leberkas ham burgdoggen porchetta shank salami picanha bresaola.<br />

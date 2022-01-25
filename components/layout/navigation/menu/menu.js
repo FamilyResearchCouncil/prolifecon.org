@@ -7,8 +7,14 @@ const Menu = ({ open }) => (
             <Link href="/">
                 <a>HOME</a>
             </Link>
-            <Link href="/about">
-                <a>About Us</a>
+            <Link href="/resources">
+                <a>RESOURCES</a>
+            </Link>
+            <Link href="/guests">
+                <a>GUESTS</a>
+            </Link>
+            <Link href="/archive">
+                <a>2021 BROADCAST</a>
             </Link>
         </StyledMenu>
     );
