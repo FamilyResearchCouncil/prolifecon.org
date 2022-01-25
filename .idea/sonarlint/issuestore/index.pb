@@ -11,8 +11,6 @@ Q
 !components/layout/footer/index.js,9/8/9825481fcd1c8e85af627eca3a8ab1764306734e
 O
 components/layout/mainLayout.js,c/c/ccacb02ef36d54d86df7a1f8e5fb035d7d44972e
-G
-components/siteTheme.js,d/8/d8c25f76bc00b51e4f7a70f29f1deef0736c4572
 =
 pages/_app.js,2/0/202812cedbed29fdf712361f0e7a919932f9e751
 \

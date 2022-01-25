@@ -5,7 +5,7 @@ export const StyledMenu = styled.nav`
   justify-content: right;
   height: 100vh;
   flex-direction: column;
-  background: ${({ theme }) => theme.colors.mobileTransparentblack};
+  background: ${({ theme }) => theme.colors.mobileTransparentblue};
   width: 40%;
   text-align: left;
   padding: 10rem 2rem ;
