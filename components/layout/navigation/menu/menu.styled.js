@@ -6,7 +6,7 @@ export const StyledMenu = styled.nav`
   height: 100vh;
   flex-direction: column;
   background: ${({ theme }) => theme.colors.mobileTransparentblack};
-  width: 100vw;
+  width: 40%;
   text-align: left;
   padding: 10rem 2rem ;
   position: absolute;
@@ -34,8 +34,10 @@ export const StyledMenu = styled.nav`
 
   @media (min-width: ${({ theme }) => theme.breakPoints.medium}) {
     padding: 2rem 10rem 2rem 2rem;
-    flex-direction: row;
-    height: auto;a {
+    flex-direction: column;
+    height: 100vh;
+    width: 40%;
+    a {
     font-size: 2rem;
   }
 
