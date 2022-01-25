@@ -24,7 +24,7 @@ const Header = () => {
         <header ref={node} className={styles.header}>
             <Link href={"/"}>
                 <a className={styles.logoLink}>
-                    <Image src="/img/generic-log.png" alt="Logo" width={190} height={100} layout='responsive' />
+                    <Image src="/img/sm_logo_plc.png" alt="Logo" width={10} height={10} layout='responsive' />
                 </a>
             </Link>
             <Burger open={open} setOpen={setOpen} />
