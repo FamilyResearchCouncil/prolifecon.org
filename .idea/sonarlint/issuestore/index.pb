@@ -9,8 +9,6 @@ B
 .components/layout/sections/contentContainer.js,c/f/cf32fcc87dacd7c75b553f6cd623837138eb6685
 Q
 !components/layout/footer/index.js,9/8/9825481fcd1c8e85af627eca3a8ab1764306734e
-Y
-)components/layout/navigation/menu/menu.js,8/7/87a8c6ebff98af133ed17afacbb14cab27974ca3
 O
 components/layout/mainLayout.js,c/c/ccacb02ef36d54d86df7a1f8e5fb035d7d44972e
 G
