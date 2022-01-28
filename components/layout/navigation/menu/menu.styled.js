@@ -28,15 +28,19 @@ export const StyledMenu = styled.nav`
     text-align: center;
     
     &:hover {
-      color: ${({ theme }) => theme.colors.altLightBlue};
+      color: ${({ theme }) => theme.colors.isPink};
     }
+  }
+  
+  @media (min-width: ${({ theme }) => theme.breakPoints.small}) {
+    width: 100%;
   }
 
   @media (min-width: ${({ theme }) => theme.breakPoints.medium}) {
     padding: 2rem 10rem 2rem 2rem;
     flex-direction: column;
     height: 100vh;
-    width: 40%;
+    width: 53%;
     a {
     font-size: 2rem;
   }

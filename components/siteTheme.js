@@ -5,6 +5,7 @@ export default function siteTheme() {
             altDarkBlue: '#0c1527',
             altLightBlue: '#6c97c6',
             primaryGold: '#ddbb2b',
+            isPink: '#f0b1f5',
             isWhite: '#ffffff',
             transparentBlack: 'rgba(0,0,0,.7)',
             mobileTransparentblue: 'rgba(18, 21, 123,.85)',
