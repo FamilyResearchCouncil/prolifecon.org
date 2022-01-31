@@ -12,7 +12,7 @@ const VideoContainer = (props) => (
             <div className={styles.outterDiv}>
                 <div className={styles.innerDiv}>
                     <iframe
-                        src={`https://players.brightcove.net/5194481742001/ErHOgbIwP_default/index.html?videoId=${props.videoId}`}
+                        src={`https://players.brightcove.net/5194481742001/experience_61f1c13ec9d80a00235cc9ab/index.html?videoId=${props.videoId}`}
                         allow="encrypted-media"
                         className={styles.videoElement}></iframe>
                 </div>
