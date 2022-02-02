@@ -4,12 +4,18 @@ import { faFacebookF, faInstagram, faTwitter } from '@fortawesome/free-brands-sv
 import React from "react";
 
 const SocialGrid = styled.div`
-  display: grid;
-  grid-template-columns: repeat(3,1fr);
-  grid-gap: 1rem;
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+  
 	a {
 		background-color:  ${props => props.background };
 		color: ${props =>  props.color };
+		border-radius: 50%;
+		text-align: center;
+		height: 80px;
+		width: 80px;
+		margin: 0 1rem;
 	}
 `
 
