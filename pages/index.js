@@ -26,7 +26,7 @@ const Home = () => (
           </StyledPrimaryBlueSection>
       <StyledContentContainer>
       </StyledContentContainer>
-      <SocialLinks/>
+      <SocialLinks background={({ theme }) => theme.colors.altBlue} color={({ theme }) => theme.colors.isWhite}/>
   </>
 );
 
