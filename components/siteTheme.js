@@ -2,12 +2,9 @@ export default function siteTheme() {
     return {
         colors: {
             primaryBlue: '#12157b',
-            altDarkBlue: '#0c1527',
-            altLightBlue: '#6c97c6',
-            primaryGold: '#ddbb2b',
+            altBlue: '#9ad4e6',
             isPink: '#f0b1f5',
             isWhite: '#ffffff',
-            transparentBlack: 'rgba(0,0,0,.7)',
             mobileTransparentblue: 'rgba(18, 21, 123,.85)',
         },
         widths: {
