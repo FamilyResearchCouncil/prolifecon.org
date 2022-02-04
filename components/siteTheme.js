@@ -16,7 +16,8 @@ export default function siteTheme() {
             readingWidth: '80ch'
         },
         padding: {
-            sectionPadding: '4rem 2rem'
+            sectionPadding: '4rem 0',
+            readingSectionPadding: '0 2rem'
         },
         breakPoints: {
             small: '480px',
