@@ -5,6 +5,7 @@ import React from "react";
 const StaffGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(2,1fr);
+  justify-content: center;
   grid-gap: 6rem 2rem;
  
   @media (min-width: ${({ theme }) => theme.breakPoints.medium}) {
