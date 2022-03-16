@@ -12,14 +12,12 @@ const Resources = () => (
         <HeadTag title="Resources" description="ProLifeCon Resources" />
 
         <StyledPrimaryBlueSection>
-            <div className={styles.backgroundImage}>
             <StyledBackgroundImage>
             <StyledContentContainer>
                 <h2 className={` ${styles.h2} ${styles.h2NoMargin} `}>Guests</h2>
                 <StaffListing />
             </StyledContentContainer>
             </StyledBackgroundImage>
-            </div>
             <SocialLinks background={({ theme }) => theme.colors.isWhite} color={({ theme }) => theme.colors.primaryBlue} />
         </StyledPrimaryBlueSection>
     </>

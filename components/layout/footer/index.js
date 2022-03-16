@@ -1,7 +1,8 @@
 import {StyledReadingSection} from "../../subComponents/readingTextBlock";
+import styles from './Footer.module.css'
 
 const Footer = () => (
-    <footer>
+    <footer className={styles.footer}>
         <hr />
         <center>
             <StyledReadingSection>

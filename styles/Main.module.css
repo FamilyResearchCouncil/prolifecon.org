@@ -2,11 +2,6 @@
     text-align: center;
 }
 
-.backgroundImage {
-    background-image: url('/img/bckgrnd_baby.png');
-    background-position: center;
-    -webkit-background-size: cover;
-    background-size: cover;
-    width: 100%;
-    background-repeat: no-repeat;
+.hr {
+    margin: 0;
     }
