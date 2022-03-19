@@ -1,6 +1,8 @@
 .footer {
-	grid-row-start: 2;
-	grid-row-end: 3;
+	/*grid-row-start: 1;*/
+	/*grid-row-end: 3;*/
+	display: grid;
+	align-content: center;
 	width: 100%;
 	background-color: rgba(18, 21, 123, 1);
 	color: #fff;

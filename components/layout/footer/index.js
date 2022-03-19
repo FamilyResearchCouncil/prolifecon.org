@@ -9,8 +9,8 @@ const Footer = () => (
                 <br/>
                 Stuff that you'd find in the footer
                 <br/>
-            </StyledReadingSection>
             &copy;2022 Family Research Council
+            </StyledReadingSection>
         </center>
     </footer>
 );
