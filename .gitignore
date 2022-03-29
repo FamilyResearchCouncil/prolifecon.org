@@ -106,3 +106,7 @@ dist
 #intellij idea directory
 .idea/
 ./*.iml
+.DS_Store
+components/.DS_Store
+components/layout/.DS_Store
+components/subComponents/.DS_Store
