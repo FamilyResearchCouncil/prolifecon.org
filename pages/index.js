@@ -19,7 +19,7 @@ const Home = () => (
           <StyledPrimaryBlueSection>
               <StyledReadingSection>
                   <h2 className={styles.h2}>Resources</h2>
-                 GRID COMPONENT GOES HERE
+                 RESOURCES COMPONENT GOES HERE
               </StyledReadingSection>
           </StyledPrimaryBlueSection>
       <StyledContentContainer>
