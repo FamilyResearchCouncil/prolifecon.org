@@ -26,6 +26,11 @@ const VideoContainer = (props) => (
                 </div>
             </div>
         </StyledVideoContainer>
+        <div className={styles.shapes}>
+            <span className={styles.dot}>
+                <span className={styles.square}></span>
+            </span>
+        </div>
     </>
 );
 
